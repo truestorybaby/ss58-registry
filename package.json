@@ -13,5 +13,9 @@
   "devDependencies": {
     "toml": "^3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
+  }
 }
